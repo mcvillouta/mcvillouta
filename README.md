@@ -1,4 +1,4 @@
-# I'm Catalina/Soy Catalina 👋
+# I'm Catalina/Soy Catalina 👋 ⭐️ 🌎
 
 ## About Me
 - 🧬 Passionate about the intersection of biotech, healthcare, and machine learning
