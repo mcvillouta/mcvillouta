@@ -1,16 +1,17 @@
-### Hi there 👋
+# I'm Catalina/Soy Catalina 👋
 
-<!--
-**mcvillouta/mcvillouta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🧬 Passionate about the intersection of biotech, healthcare, and machine learning
+- 💻 Leveraging statistical models, machine learning, and biomedical knowledge graphs to analyze complex clinical data
+- 🔬 Aiming to uncover insights into disease mechanisms for improved personalized patient care through precision medicine
+- 🏥 Focused on applying innovative computational methods to healthcare challenges
+- 🌱 Constantly learning and exploring new techniques and topics
+- 🤝 Open to collaborations and discussions on projects related to healthcare and machine learning
 
-Here are some ideas to get you started:
+## Publications
+- Take a look at our lab's latest publication led by Dr. Karthik Soman: **[KG-RAG](https://github.com/BaranziniLab/KG_RAG)** - Knowledge Graph-based Retrieval Augmented Generation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch
+
+📧 Email: catalina.villouta.r@gmail.com
+💼 [LinkedIn:](https://www.linkedin.com/in/catalina-villouta/)
