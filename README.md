@@ -9,7 +9,7 @@
 - 🤝 Open to collaborations and discussions on projects related to healthcare and machine learning
 
 ## Publications
-- Take a look at our lab's latest publication led by Dr. Karthik Soman: 🪄 **[KG-RAG](https://github.com/BaranziniLab/KG_RAG)** - Knowledge Graph-based Retrieval Augmented Generation.
+- Take a look at our lab's latest publication led by Dr. Karthik Soman: 🪄 **[KG-RAG](https://github.com/BaranziniLab/KG_RAG)** - Knowledge Graph-based Retrieval Augmented Generation
 
 ## Get in Touch
 
