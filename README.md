@@ -13,5 +13,5 @@
 
 ## Get in Touch
 
-📧 Email: catalina.villouta.r@gmail.com
-💼 [LinkedIn:](https://www.linkedin.com/in/catalina-villouta/)
+- 📧 Email: catalina.villouta.r@gmail.com
+- 💼 [LinkedIn:](https://www.linkedin.com/in/catalina-villouta/)
