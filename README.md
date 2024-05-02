@@ -2,7 +2,7 @@
 
 ## About Me
 - 🧬 Passionate about the intersection of biotech, healthcare, and machine learning
-- 💻 Leveraging statistical models, machine learning, and biomedical knowledge graphs to analyze complex clinical data
+- 💻 Leveraging statistical models, machine learning, and biomedical knowledge graphs to analyze complex data
 - 🔬 Aiming to uncover insights into disease mechanisms for improved personalized patient care through precision medicine
 - 🏥 Focused on applying innovative computational methods to healthcare challenges
 - 🌱 Constantly learning and exploring new techniques and topics
