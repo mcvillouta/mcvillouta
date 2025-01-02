@@ -9,9 +9,9 @@
 - 🤝 Open to collaborations and discussions on projects related to healthcare and machine learning
 
 ## Publications
-- Take a look at our lab's latest publication led by Dr. Karthik Soman: 🪄 **[KG-RAG](https://github.com/BaranziniLab/KG_RAG)** - Knowledge Graph-based Retrieval Augmented Generation
+- Take a look at our latest publication: 🪄 **[Zebra-Llama](https://arxiv.org/abs/2411.02657)** - A Context-Aware Large Language Model for Democratizing Rare Disease Knowledge
 
 ## Get in Touch
 
 - 📧 Email: catalina.villouta.r@gmail.com
-- 💼 [LinkedIn:](https://www.linkedin.com/in/catalina-villouta/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/catalina-villouta/)
